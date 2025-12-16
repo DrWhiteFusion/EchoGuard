@@ -1,0 +1,9 @@
+flask
+pandas
+streamlit
+requests
+librosa
+scikit-learn
+tensorflow
+pyaudio
+numpy

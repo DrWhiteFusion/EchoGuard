@@ -67,4 +67,3 @@ An end-to-end system that leverages the unique and challenging domain of Audio A
 - Mobile app integration
 - Cloud deployment
 
-## Built by Sai Sudarshan
